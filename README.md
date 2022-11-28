@@ -19,3 +19,21 @@ This repository contains codes, data and results for Speaker Recognition under M
 - 4. If using linux, replace "\\" by "/" or as applicable. 
 
 ## For X-vector and I-vector steps can be found this <a href="https://github.com/jagabandhumishra/I-MSV-Baseline">repository</a>.
+
+# For the audio dataset 
+Directory - Basepath-> Speaker ID -> Files 
+
+## Nomenclature
+Nomenclature - Gender Speaker_ID Session
+Gender - M-> Male
+         F -> Female
+        
+Speaker_ID -> 001 to 0047 for male
+              001 to 003 for female
+ 
+Session -> A-D representing 4 sessions
+
+## In files 
+A-D represent 4 session recordings
+Split - Contains each number splitted for Session D
+3-8 -> Represent the respective length of OTP generated
