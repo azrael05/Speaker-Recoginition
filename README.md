@@ -31,9 +31,9 @@ Directory - Basepath-> Speaker ID -> Files
 ## Nomenclature
 Nomenclature - Gender Speaker_ID Session
 - Gender - M-> Male
-         F -> Female
+         -- F -> Female
         
 - Speaker_ID -> 001 to 0047 for male
-              001 to 003 for female
+              -- 001 to 003 for female
  
 - Session -> A-D representing 4 sessions
