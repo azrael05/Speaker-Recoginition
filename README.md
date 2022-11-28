@@ -26,7 +26,8 @@ Directory - Basepath-> Speaker ID -> Files
 
 ## In Files 
 - A-D represent 4 session recordings
-- Split - Contains each number splitted for Session D
+- Split - Audacity file for each digit splitted for Session D
+- Split Numbers - WAV files for each digit
 - 3-8 -> Represent the respective length of OTP generated
 
 ## Nomenclature
