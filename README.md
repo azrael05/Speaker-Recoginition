@@ -23,6 +23,11 @@ This repository contains codes, data and results for Speaker Recognition under M
 # For the audio dataset 
 Directory - Basepath-> Speaker ID -> Files 
 
+## In Files 
+A-D represent 4 session recordings
+Split - Contains each number splitted for Session D
+3-8 -> Represent the respective length of OTP generated
+
 ## Nomenclature
 Nomenclature - Gender Speaker_ID Session
 Gender - M-> Male
@@ -32,8 +37,3 @@ Speaker_ID -> 001 to 0047 for male
               001 to 003 for female
  
 Session -> A-D representing 4 sessions
-
-## In files 
-A-D represent 4 session recordings
-Split - Contains each number splitted for Session D
-3-8 -> Represent the respective length of OTP generated
