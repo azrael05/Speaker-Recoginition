@@ -15,7 +15,7 @@ This repository contains codes, data and results for Speaker Recognition under M
 ## Steps to run python code for model (ipynb files)
  1. Clone this repository
  2. Open the required ipynb file
- 3. Change base path, train path, test path and model save path 
+ 3. Change base path, train path, test path and model save path (For UBM ubm and adaptation path also)
  4. If using linux, replace "\\" by "/" or as applicable. 
 
 ## For X-vector and I-vector steps can be found this <a href="https://github.com/jagabandhumishra/I-MSV-Baseline">repository</a>.
