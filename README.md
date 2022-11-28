@@ -3,7 +3,7 @@ This repository contains codes, data and results for Speaker Recognition under M
 
 ## Pre-requsites
 - Python >=3.8
-- Libraries - Scikit-learn, librosa, numpy, pandas
+- Libraries - Scikit-learn, librosa, numpy, pandas, seaborn, matplotlib
 
 
 ## Steps to run the pretrained model (Scripts->.py file)
