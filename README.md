@@ -1,6 +1,7 @@
 # Speaker-Recoginition
 This repository contains codes and datasets for Speaker Recognition under Mahadeva Prasanna Sir 
 
+# Drive Link for Datasets and codes is <a href="https://drive.google.com/drive/u/2/folders/1M_jzmoEKpw8fmAwgv4KUfTJU8a7ghviG">HERE</a>
 ## Pre-requsites
 - Python >=3.8
 - Libraries - Scikit-learn, librosa, numpy, pandas, seaborn, matplotlib, pickle, glob
@@ -19,7 +20,7 @@ This repository contains codes and datasets for Speaker Recognition under Mahade
  4. If using linux, replace "\\" by "/" or as applicable. 
 
 ## For X-vector and I-vector steps can be found this <a href="https://github.com/jagabandhumishra/I-MSV-Baseline">repository</a>.
-
+<br><br><br><br><br><br><br><br><br><br><br>
 # For the audio dataset 
 Directory - Basepath-> Speaker ID -> Files 
 
