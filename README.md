@@ -1,5 +1,5 @@
 # Speaker-Recoginition
-This repository contains codes, data and results for Speaker Recognition under Mahadeva Prasanna Sir 
+This repository contains codes and datasets for Speaker Recognition under Mahadeva Prasanna Sir 
 
 ## Pre-requsites
 - Python >=3.8
