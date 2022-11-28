@@ -35,7 +35,7 @@ Nomenclature - Gender Speaker_ID Session
 - Gender - M-> Male
          <br><nbsp><nbsp><nbsp><nbsp> F -> Female
         
-- Speaker_ID -> 001 to 0047 for male
+- Speaker_ID -> 026 to 0047 for male
               <br><nbsp><nbsp><nbsp> 001 to 003 for female
  
 - Session -> A-D representing 4 sessions
