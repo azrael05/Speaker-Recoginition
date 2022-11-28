@@ -20,7 +20,7 @@ This repository contains codes and datasets for Speaker Recognition under Mahade
  4. If using linux, replace "\\" by "/" or as applicable. 
 
 ## For X-vector and I-vector steps can be found this <a href="https://github.com/jagabandhumishra/I-MSV-Baseline">repository</a>.
-
+<br><br><br><br><br><br><br><br><br><br><br>
 # For the audio dataset 
 Directory - Basepath-> Speaker ID -> Files 
 
